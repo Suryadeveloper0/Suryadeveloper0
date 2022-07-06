@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Surya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-sahu-53574b161/)](https://www.linkedin.com/in/surya-sahu-53574b161/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Surya-green)](https://suryadeveloper0.github.io/Profile_Website/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Surya-yellow)](https://stackoverflow.com/users/19374495/surya-prakash-sahu)
 
 I'm
